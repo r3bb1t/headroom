@@ -33,3 +33,5 @@ mod tests {
         assert_eq!(hello(), "headroom-core");
     }
 }
+
+// CI trigger proof: crates-only change (scratch branch, will not be merged)
